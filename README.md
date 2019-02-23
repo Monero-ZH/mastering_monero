@@ -4,7 +4,7 @@
 
 #### 捐赠
 
-`XMR: 46VqMAopk6FdyuEu3VoyhyiHMXnpgL9TAgBLrebgoUARLCdF2nCjSM6SXACQSR6qQ5KpySr58nz1DMVQ6PKWYXmBETuEhgj`
+门罗币地址： `46VqMAopk6FdyuEu3VoyhyiHMXnpgL9TAgBLrebgoUARLCdF2nCjSM6SXACQSR6qQ5KpySr58nz1DMVQ6PKWYXmBETuEhgj`
 
 ## 致谢
 
